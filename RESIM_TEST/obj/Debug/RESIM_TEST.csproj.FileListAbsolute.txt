@@ -1,0 +1,10 @@
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\bin\Debug\RESIM_TEST.exe.config
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\bin\Debug\RESIM_TEST.exe
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\bin\Debug\RESIM_TEST.pdb
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.Form1.resources
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.exe
+C:\Users\lenovopc\source\repos\RESIM_TEST\RESIM_TEST\obj\Debug\RESIM_TEST.pdb
